@@ -1,2 +1,0 @@
-# UprakJuan
-web
